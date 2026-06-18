@@ -87,16 +87,6 @@
 
 ---
 
-## 🏆 GitHub 奖杯
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Orange-Git-Coder&theme=radical&no-frame=true&no-bg=true&column=8&margin-w=5&title=MultiLanguage,Commits,Followers,Experience,Repositories,Stars,PullRequest,Issues" width="100%" />
-
-</div>
-
----
-
 ## 🐍 贡献贪吃蛇
 
 <div align="center">
